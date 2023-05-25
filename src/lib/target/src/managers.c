@@ -31,6 +31,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *  MANAGERS definitions
  *****************************************************************************/
 
+// Opensync integration on Openwrt - SpanIdea - Giridhar
+
 target_managers_config_t target_managers_config[] =
 {
     {
